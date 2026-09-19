@@ -102,10 +102,10 @@ Learning with fewer labels, across modalities.
 
 <div align="center">
 
-<a href="https://github.com/MRUIL/WDNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=WDNet&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/MRUIL/WeakMCN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=WeakMCN&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/MRUIL/LoViT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=LoViT&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/MRUIL/StableSPR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=StableSPR&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/MRUIL/WDNet"><img src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/pin-WDNet.svg" width="400" /></a>
+<a href="https://github.com/MRUIL/WeakMCN"><img src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/pin-WeakMCN.svg" width="400" /></a>
+<a href="https://github.com/MRUIL/LoViT"><img src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/pin-LoViT.svg" width="400" /></a>
+<a href="https://github.com/MRUIL/StableSPR"><img src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/pin-StableSPR.svg" width="400" /></a>
 
 </div>
 
@@ -148,8 +148,8 @@ Learning with fewer labels, across modalities.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MRUIL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRUIL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=MRUIL.github.io,bay" />
+<img height="200" src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/stats.svg" />
+<img height="200" src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/langs.svg" />
 
 <br/>
 
@@ -157,11 +157,7 @@ Learning with fewer labels, across modalities.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRUIL&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=818cf8&point=f472b6&area=true" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MRUIL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://raw.githubusercontent.com/MRUIL/MRUIL/metrics/activity.svg" width="95%"/>
 
 <br/><br/>
 
