@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Final-year+PhD+%40+King's+College+London+%7C+Data+Scientist+%40+Proximie;Real-time+surgical+video+understanding+%E2%80%94+phase+recognition+at+scale;Vision-Language+Models+for+the+operating+room;Weakly-supervised+%26+unsupervised+medical+segmentation;MICCAI+%C2%B7+CVPR+%C2%B7+ICCV+%C2%B7+Medical+Image+Analysis+%C2%B7+WACV" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Final-year+PhD+%40+King's+College+London+%7C+ex-Data+Scientist+%40+Proximie;Real-time+surgical+video+understanding+%E2%80%94+phase+recognition+at+scale;Vision-Language+Models+for+the+operating+room;Weakly-supervised+%26+unsupervised+medical+segmentation;MICCAI+%C2%B7+CVPR+%C2%B7+ICCV+%C2%B7+Medical+Image+Analysis+%C2%B7+WACV" alt="typing"/>
 
 </div>
 
@@ -21,8 +21,9 @@
 
 ```python
 class YangLiu(Researcher):
-    affiliation = ["King's College London — School of Biomedical Engineering & Imaging Sciences (PhD)",
-                   "Proximie — Data Scientist (part-time)"]
+    affiliation = "King's College London — School of Biomedical Engineering & Imaging Sciences (PhD)"
+    experience  = ["Proximie — Data Scientist, part-time (Jan–Jul 2025)",
+                   "ByteDance — Computer Vision Algorithm Engineer, intern (2021)"]
     advisors    = ["Prof. Sébastien Ourselin", "Prof. Prokar Dasgupta", "Dr. Alejandro Granados"]
     background  = "MSc @ Huazhong University of Science and Technology (2021), advised by Prof. Xiang Bai"
 
@@ -105,8 +106,6 @@ Learning with fewer labels, across modalities.
 <a href="https://github.com/MRUIL/WeakMCN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=WeakMCN&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 <a href="https://github.com/MRUIL/LoViT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=LoViT&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 <a href="https://github.com/MRUIL/StableSPR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=StableSPR&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/MRUIL/DDSB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=DDSB&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/MRUIL/SKiT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MRUIL&repo=SKiT&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 
 </div>
 
@@ -180,11 +179,11 @@ Learning with fewer labels, across modalities.
 
 ```text
 2026.05  ◆ MICCAI 2026 early accept (top 9%) — StableSPR          ◆ IEEE TCSVT — SLIM
-2025     ◆ CVPR 2025 — WeakMCN   ◆ MICCAI 2025   ◆ ICME 2025   ◆ Joined Proximie as Data Scientist
+2025     ◆ CVPR 2025 — WeakMCN   ◆ MICCAI 2025   ◆ ICME 2025   ◆ Data Scientist @ Proximie (Jan–Jul)
 2024     ◆ Medical Image Analysis — LoViT   ◆ ISBI 2024   ◆ DDSB / ArcSin preprints
 2023     ◆ ICCV 2023 — SKiT
 2022     ◆ 1st place, MICCAI ATLAS Stroke Lesion Segmentation Challenge
-2021     ◆ MSc, HUST   ◆ CV Algorithm Engineer intern @ ByteDance   ◆ PhD begins @ KCL, London
+2021     ◆ MSc, HUST   ◆ CV Algorithm Engineer intern @ ByteDance   ◆ PhD begins @ KCL, London  
 2020–21  ◆ CVPR 2020 — Super-BPD   ◆ WACV 2021 — WDNet
 ```
 
