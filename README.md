@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Final-year+PhD+%40+King's+College+London+%7C+ex-Data+Scientist+%40+Proximie;Real-time+surgical+video+understanding+%E2%80%94+phase+recognition+at+scale;Vision-Language+Models+for+the+operating+room;Weakly-supervised+%26+unsupervised+medical+segmentation;MICCAI+%C2%B7+CVPR+%C2%B7+ICCV+%C2%B7+Medical+Image+Analysis+%C2%B7+WACV" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=PhD+in+Medical+AI+%E2%80%94+King's+College+London+(2026)+%7C+ex-Data+Scientist+%40+Proximie;Real-time+surgical+video+understanding+%E2%80%94+phase+recognition+at+scale;Vision-Language+Models+for+the+operating+room;Weakly-supervised+%26+unsupervised+medical+segmentation;MICCAI+%C2%B7+CVPR+%C2%B7+ICCV+%C2%B7+Medical+Image+Analysis+%C2%B7+WACV" alt="typing"/>
 
 </div>
 
@@ -21,11 +21,11 @@
 
 ```python
 class YangLiu(Researcher):
-    affiliation = "King's College London — School of Biomedical Engineering & Imaging Sciences (PhD)"
+    education   = ["PhD, King's College London — School of Biomedical Engineering & Imaging Sciences (2021–2026)",
+                   "MSc, Huazhong University of Science and Technology (2021), advised by Prof. Xiang Bai"]
     experience  = ["Proximie — Data Scientist, part-time (Jan–Jul 2025)",
                    "ByteDance — Computer Vision Algorithm Engineer, intern (2021)"]
     advisors    = ["Prof. Sébastien Ourselin", "Prof. Prokar Dasgupta", "Dr. Alejandro Granados"]
-    background  = "MSc @ Huazhong University of Science and Technology (2021), advised by Prof. Xiang Bai"
 
     research    = {
         "surgical video":   ["online phase recognition", "long-video transformers", "streaming VLMs"],
@@ -179,6 +179,7 @@ Learning with fewer labels, across modalities.
 
 ```text
 2026.05  ◆ MICCAI 2026 early accept (top 9%) — StableSPR          ◆ IEEE TCSVT — SLIM
+2026.01  ◆ PhD awarded, King's College London
 2025     ◆ CVPR 2025 — WeakMCN   ◆ MICCAI 2025   ◆ ICME 2025   ◆ Data Scientist @ Proximie (Jan–Jul)
 2024     ◆ Medical Image Analysis — LoViT   ◆ ISBI 2024   ◆ DDSB / ArcSin preprints
 2023     ◆ ICCV 2023 — SKiT
@@ -192,7 +193,7 @@ Learning with fewer labels, across modalities.
 <div align="center">
 
 **Open to collaboration on surgical AI, medical video understanding and vision-language models.**<br/>
-<sub>London, UK · yang.9.liu@kcl.ac.uk</sub>
+<sub>yang.9.liu@kcl.ac.uk</sub>
 
 <br/><br/>
 
