@@ -22,10 +22,10 @@
 ```python
 class YangLiu(Researcher):
     education   = ["PhD, King's College London — School of Biomedical Engineering & Imaging Sciences (2021–2026)",
-                   "MSc, Huazhong University of Science and Technology (2021), advised by Prof. Xiang Bai"]
+                   "MSc, Huazhong University of Science and Technology (2019–2021), advised by Prof. Xiang Bai"]
     experience  = ["Proximie — Data Scientist, part-time (Jan–Jul 2025)",
                    "ByteDance — Computer Vision Algorithm Engineer, intern (2021)"]
-    advisors    = ["Prof. Sébastien Ourselin", "Prof. Prokar Dasgupta", "Dr. Alejandro Granados"]
+    advisors    = {"primary": "Prof. Sébastien Ourselin", "co-supervisors": ["Prof. Prokar Dasgupta", "Dr. Alejandro Granados"]}
 
     research    = {
         "surgical video":   ["online phase recognition", "long-video transformers", "streaming VLMs"],
