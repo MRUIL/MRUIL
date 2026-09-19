@@ -86,14 +86,14 @@ for y in range(created, now.year + 1):
 os.makedirs(OUT, exist_ok=True)
 
 # ---------------------------------------------------------------- 1) stats card
-rows = [("★", "Total stars", fmt(stars)), ("⎇", "Total commits", fmt(commits)), ("⇄", "Pull requests", fmt(prs)),
-        ("◎", "Issues", fmt(issues)), ("◆", "Contributions", fmt(total_contrib)), ("☺", "Followers", fmt(user["followers"]))]
+rows = [("Total stars", fmt(stars)), ("Total commits", fmt(commits)), ("Pull requests", fmt(prs)),
+        ("Contributions", fmt(total_contrib)), ("Followers", fmt(user["followers"]))]
 body = []
-for i, (ic, lbl, val) in enumerate(rows):
-    y = 70 + i * 24
-    body.append(f'<text x="25" y="{y}" font-size="14" fill="{ACC[i % len(ACC)]}">{ic}</text>'
-                f'<text x="50" y="{y}" font-size="14" fill="{TEXT}">{escape(lbl)}:</text>'
-                f'<text x="230" y="{y}" font-size="14" font-weight="700" fill="{TEXT}">{val}</text>')
+for i, (lbl, val) in enumerate(rows):
+    y = 76 + i * 27
+    body.append(f'<rect x="25" y="{y-11}" width="4" height="14" rx="2" fill="{ACC[i % len(ACC)]}"/>'
+                f'<text x="40" y="{y}" font-size="14" fill="{TEXT}">{escape(lbl)}</text>'
+                f'<text x="240" y="{y}" font-size="15" font-weight="700" fill="{ACC[i % len(ACC)]}">{val}</text>')
 cx, cy, rr = 400, 120, 42
 body.append(f'<circle cx="{cx}" cy="{cy}" r="{rr}" fill="none" stroke="{LINE}" stroke-width="7"/>')
 body.append(f'<circle cx="{cx}" cy="{cy}" r="{rr}" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" '
